@@ -17,7 +17,7 @@ A lightweight CLI manager for Frappe v16 local development on WSL. It runs Frapp
 Download the script and make it executable:
 
 ```bash
-sudo curl -o /usr/local/bin/akwad-bench https://raw.githubusercontent.com/your-org/akwad-bench/main/akwad-bench
+sudo curl -o /usr/local/bin/akwad-bench https://github.com/akwadqa/akwad-bench-bash-script/tree/master/akwad-bench
 sudo chmod +x /usr/local/bin/akwad-bench
 
 ```
