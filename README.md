@@ -18,7 +18,7 @@ Download the script and make it executable:
 
 ```bash
 git clone https://github.com/akwadqa/akwad-bench-bash-script
-mv akwad-bench-bash-script/akwad-bench /usr/local/bin/
+sudo mv akwad-bench-bash-script/akwad-bench /usr/local/bin/
 sudo chmod +x /usr/local/bin/akwad-bench
 
 ```
